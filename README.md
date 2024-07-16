@@ -37,7 +37,7 @@ While AMS ranges from 0 to 1, the transformation (3) spans from -∞ to 0. To st
 Now, the relationship between AMSF1 and AMSF2 at k = 2 is equal to that at k = 3, as the denominator of Equation 4 (max{P1n,…,PKn}) cancels out during division (Fig. 1).
 
 <p align="center">
-  <img src="https://github.com/yanicen1/Additive-Manufacturing-Suitability-Factor/blob/4c3d5f8a8449e30a3c611a0b5377d3ccc476a5b9/Fig_1.png" width="800" title="hover text">
+  <img src="https://github.com/yanicen1/Additive-Manufacturing-Suitability-Factor/blob/4c3d5f8a8449e30a3c611a0b5377d3ccc476a5b9/Fig_1.png" width="700" title="hover text">
   <p align="center">Fig. 1. Comparison of the controversial results from the conventional AM suitability factor versus the consistent outcomes of the modified version.</p>  
 </p>
 
@@ -54,7 +54,7 @@ where CVn denotes the coefficient of variation for the nth parameter in the expe
 In the [paper](https://doi.org/10.1016/j.powtec.2024.120004), weighting factors for CBD, CI, PD, SE, AE, BFE, and 'c' were calculated based on the median values of coefficients of variation for the rheological parameters derived from an extensive literature review. Specifically, the weighting factors were 0.54 for CBD, 0.1 for CI, 0.1 for PD, 0.11 for SE, 0.02 for AE, 0.11 for BFE, and 0.02 for 'c'.
 
 <p align="center">
-  <img src="https://github.com/yanicen1/Additive-Manufacturing-Suitability-Factor/blob/4c3d5f8a8449e30a3c611a0b5377d3ccc476a5b9/Fig_2.png" width="800" title="hover text">
+  <img src="https://github.com/yanicen1/Additive-Manufacturing-Suitability-Factor/blob/4c3d5f8a8449e30a3c611a0b5377d3ccc476a5b9/Fig_2.png" width="600" title="hover text">
   <p align="center">Fig. 2. Methodology steps for calculating AMSF.</p>
 </p>
 
