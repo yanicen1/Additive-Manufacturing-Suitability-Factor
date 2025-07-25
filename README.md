@@ -6,7 +6,7 @@ All used libraries were saved in files [requirements.txt](https://github.com/yan
 
 <p><b>If you use this notebook, please refer to the following papers:</b></p>
 <p><b>1. A. Yankin, H.A. Murtaza, A. Ospanov, G. Zharkynbekova, D. Yuldasheva, A. Perveen, D. Talamona, "Comprehensive analysis of ultrasonically atomized 316L stainless steel powder using adjusted additive manufacturing suitability factor," Powder Technology, vol. 444, 2024, p. 120004</b>. https://doi.org/10.1016/j.powtec.2024.120004 </p>
-<p><b>2. [Add reference here]</b></p>
+<p><b>2. Yankin, A., Murtaza, H.A., Golman, B. et al. Effect of ultrasonic atomization parameters on AlSi12 aluminum powder characteristics for additive manufacturing. Sci Rep 15, 20524 (2025). https://doi.org/10.1038/s41598-025-06086-7</b></p>
 
-If you have any questions, find any uncertainties, or notice any mistakes, please feel free to contact me:: 
+If you have any questions, find any uncertainties, or notice any mistakes, please feel free to contact me: 
 Andrei Iankin, yas.cem.yanicen@gmail.com
